@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real-ESRGAN Image Upscaler
 
 A Python application for high-quality image super-resolution using Real-ESRGAN AI models.
@@ -124,3 +125,6 @@ This project uses Real-ESRGAN which is licensed under the BSD 3-Clause License.
 - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) by Xintao Wang et al.
 - [BasicSR](https://github.com/XPixelGroup/BasicSR) library
 - PyTorch team for the deep learning framework
+=======
+# Image-scaler
+>>>>>>> 6d70f16d7512cd629522abec92842a55b025bd50
